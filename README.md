@@ -1,2 +1,7 @@
-# Airfoil-Design-Based-on-ELM-
-Airfoil Design and Optimization Based on Extreme Learning Machine
+# Airfoil Design and Optimization Based on Extreme Learning Machine
+Author: XU Boqing
+The dataset source:https://m-selig.ae.illinois.edu/ads/coord_database.html.
+
+This site includes some of my results in this research, the thesis and the main code.
+
+Thanks for my mentor, Ran Cheng and Cheng He.
